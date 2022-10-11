@@ -1,4 +1,4 @@
 # Practical Statistics for Data Scientists published by O'REILLY
 
 - publisher's Github : https://github.com/gedeck/practical-statistics-for-data-scientists
-- Host's blog : https://fromitot.tistory.com
+- Host's blog : https://bit.ly/3rLT7Wh
